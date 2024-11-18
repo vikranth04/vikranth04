@@ -63,6 +63,5 @@ Welcome to my GitHub! I'm a passionate web developer specializing in *Frontend* 
 
 ---
 
-![Footer Banner](https://happycoding.io/tutorials/processing/images/input-13.png)
 
 
