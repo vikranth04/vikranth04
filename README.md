@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend** and **Backend Development**. I thrive on creating visually appealing, responsive, and user-friendly web applications. ✨
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your custom banner -->
+![Profile Banner](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png) <!-- Replace with your custom banner -->
 
 ---
 
@@ -57,11 +57,11 @@ Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend*
 
 ## 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/buttivikranth?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app + 1)
+[![LinkedIn](https://www.linkedin.com/in/buttivikranth?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [![Portfolio](https://nimble-pixie-1aa82f.netlify.app/)
 [![Email](buttivikranth64@gmail.com)
 
 ---
 
-![Footer Banner](https://via.placeholder.com/800x100.png?text=Happy+Coding!+💻) <!-- Replace with a footer image -->
+![Footer Banner](https://happycoding.io/tutorials/processing/images/input-13.png) <!-- Replace with a footer image -->
 
