@@ -1,6 +1,6 @@
 # 💻 Vikranth - Web Developer 🚀
 
-Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend** and **Backend Development**. I thrive on creating visually appealing, responsive, and user-friendly web applications. ✨
+Welcome to my GitHub! I'm a passionate web developer specializing in *Frontend* and *Backend Development*. I thrive on creating visually appealing, responsive, and user-friendly web applications. ✨
 
 ![Profile Banner](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png) <!-- Replace with your custom banner -->
 
@@ -8,14 +8,14 @@ Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend*
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (Data Science)** at [NNRG Engineering College](https://nnrg.edu.in).
-- 🧑‍💻 Currently an intern at **Shadow Fox**.
-- 🚀 Exploring the exciting world of **Full-Stack Development**.
+- 🎓 Pursuing *B.Tech in Computer Science Engineering (Data Science)* at [NNRG Engineering College](https://nnrg.edu.in).
+- 🧑‍💻 Currently an intern at *Shadow Fox*.
+- 🚀 Exploring the exciting world of *Full-Stack Development*.
 - 🌱 Constantly learning and challenging myself to grow as a developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -38,12 +38,12 @@ Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend*
 ## 🚀 Projects
 
 ### 🌟 [Project 1: Portfolio Website](#)
-- **Description:** A sleek personal portfolio showcasing my work and skills.
-- **Tech Stack:** HTML, CSS, JavaScript, React.js
+- *Description:* A sleek personal portfolio showcasing my work and skills.
+- *Tech Stack:* HTML, CSS, JavaScript, React.js
 
 ### 🌟 [Project 2: Ecommerce Website](#)
-- **Description:** A fully functional Ecommerce Website for managing user data.
-- **Tech Stack:** Node.js, Express.js
+- *Description:* A fully functional Ecommerce Website for managing user data.
+- *Tech Stack:* Node.js, Express.js
 
 ---
 
@@ -63,5 +63,6 @@ Welcome to my GitHub! I'm a passionate web developer specializing in **Frontend*
 
 ---
 
-![Footer Banner](https://happycoding.io/tutorials/processing/images/input-13.png) <!-- Replace with a footer image -->
+![Footer Banner](https://happycoding.io/tutorials/processing/images/input-13.png)
+
 
