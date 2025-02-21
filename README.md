@@ -1,67 +1,37 @@
-# 💻 Vikranth - Web Developer 🚀
+<h1 align="center">Hi 👋, I'm Vikranth Butti</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-Welcome to my GitHub! I'm a passionate web developer specializing in *Frontend* and *Backend Development*. I thrive on creating visually appealing, responsive, and user-friendly web applications. ✨
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-![Profile Banner](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png) <!-- Replace with your custom banner -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikranth04&label=Profile%20views&color=0e75b6&style=flat" alt="vikranth04" /> </p>
 
----
+- 🌱 I’m currently learning **Web Development**
 
-## 👨‍💻 About Me
+- 💬 Ask me about **Frontend and Backend**
 
-- 🎓 Pursuing *B.Tech in Computer Science Engineering (Data Science)* at [NNRG Engineering College](https://nnrg.edu.in).
-- 🧑‍💻 Currently an intern at *Shadow Fox*.
-- 🚀 Exploring the exciting world of *Full-Stack Development*.
-- 🌱 Constantly learning and challenging myself to grow as a developer.
+- 📫 How to reach me **buttivikranth64@gmail.com**
 
----
+- 📄 Know about my experiences [file:///C:/Users/butti/Downloads/portfolio.pdf](file:///C:/Users/butti/Downloads/portfolio.pdf)
 
-## 🛠 Tech Stack
+- ⚡ Fun fact **I am funny**
 
-### Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
-
----
-
-## 🚀 Projects
-
-### 🌟 [Project 1: Portfolio Website](#)
-- *Description:* A sleek personal portfolio showcasing my work and skills.
-- *Tech Stack:* HTML, CSS, JavaScript, React.js
-
-### 🌟 [Project 2: Ecommerce Website](#)
-- *Description:* A fully functional Ecommerce Website for managing user data.
-- *Tech Stack:* Node.js, Express.js
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikranth&show_icons=true&theme=radical" alt="Vikranth's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikranth&theme=radical" alt="GitHub Streak" width="48%" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vikranth butti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikranth butti" height="30" width="40" /></a>
+<a href="https://instagram.com/itsme_vikky_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsme_vikky_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/butti vikranth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="butti vikranth" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 📫 Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikranth04&show_icons=true&locale=en&layout=compact" alt="vikranth04" /></p>
 
-[![LinkedIn](https://www.linkedin.com/in/buttivikranth?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-[![Portfolio](https://nimble-pixie-1aa82f.netlify.app/)
-[![Email](buttivikranth64@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikranth04&show_icons=true&locale=en" alt="vikranth04" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikranth04&" alt="vikranth04" /></p>
+
+
 
 
 
