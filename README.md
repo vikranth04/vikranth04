@@ -1,3 +1,6 @@
+
+<img src="https://res.cloudinary.com/dlhw3h5mo/image/upload/v1740215391/canva_0_cvawm2.png">
+
 <h1 align="center">Hi 👋, I'm Vikranth Butti</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
